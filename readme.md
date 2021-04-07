@@ -2,6 +2,8 @@
 
 This is working example of theme switcher in ReactJS by using **Context API Hook** and **CSS Variables**.
 
+![Demo of the theme switching](./src/assets/images/themeswitcher.gif);
+
 ## Files Strcuture
 
 `/components`: For all reusable components
