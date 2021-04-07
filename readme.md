@@ -12,9 +12,7 @@ This is working example of theme switcher in ReactJS by using **Context API Hook
 
 ## Walkthrough
 
-`/components/context.js` : This file has the context of the theme
-
-`App.js`: App.js has the provider of the theme and handling the logic of toggling the theme
+`/components/Context.js` : This file has the both the context and the provider for the theme.
 
 `assets/style/style.css`: CSS Variables for the theme
 
