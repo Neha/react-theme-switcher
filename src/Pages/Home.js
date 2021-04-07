@@ -1,9 +1,9 @@
-import React, { useContext } from "react";
+import React from "react";
+import { useTheme } from "../components/Context";
 import Header from "../components/Header";
-import Context from "../components/Context";
 
 const Home = () => {
-  const theme = useContext(Context);
+  const { theme } = useTheme();
 
   return (
     <div className={theme}>

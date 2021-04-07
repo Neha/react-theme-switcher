@@ -19,5 +19,3 @@ export const ThemeProvider = ({ children }) => {
     </Context.Provider>
   );
 };
-
-export default Context;
